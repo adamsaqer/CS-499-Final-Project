@@ -80,6 +80,6 @@ Thank you for taking the time to read through my work. I’m excited to carry th
 
 ## Contact Information
 
-**Email:** [adam.saqer@example.com](mailto:adam.saqer@example.com)  
+**Email:** [adamsaqer16@yahoo.com](mailto:adam.saqer@example.com)  
 
 *(Please reach out via email for any professional inquiries or further information about this project. I welcome opportunities to discuss the work or potential collaborations.)*

@@ -3,6 +3,10 @@
 **Bachelor of Science in Computer Science — SNHU**
 
 ---
+# CS-499 Final Project – Rescue Animal System
+
+🎥 [Watch Code Review Video]([https://your-youtube-link-here.com](https://www.youtube.com/watch?v=Kk-_X8PfW_s))
+
 
 ## 🌟 Professional Self-Assessment
 

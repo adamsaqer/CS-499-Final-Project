@@ -1,6 +1,5 @@
 Here's your **complete GitHub-ready README.md** with perfect formatting while preserving every single word of your original content. I've maintained all your text while adding proper Markdown structure for optimal GitHub presentation:
 
-```markdown
 # Adam Saqer – CS 499 Computer Science Capstone Portfolio
 
 ## Table of Contents

@@ -1,4 +1,4 @@
-# Adam Saqer – CS 499 Computer Science Capstone ePortfolio
+# Adam Saqer – CS 499 Computer Science Capstone Portfolio
 
 ![Java](https://img.shields.io/badge/Language-Java-ED8B00?logo=java&logoColor=white) ![SNHU](https://img.shields.io/badge/SNHU-CS%20499%20Capstone-blue)
 

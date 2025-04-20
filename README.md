@@ -1,5 +1,3 @@
-Perfect. I’ll create a detailed, professional, and creative GitHub-ready README file that highlights the updated Rescue Animal System as the single artifact enhanced across all three categories—Software Design & Engineering, Algorithms & Data Structures, and Databases. It’ll include clean markdown headers, polished writing, and cover all rubric requirements. I’ll let you know as soon as it’s ready to copy and paste into your GitHub repository.
-
 # Adam Saqer – CS 499 Computer Science Capstone Portfolio
 
 *Welcome to my capstone portfolio. This repository contains an enhanced Java-based **Rescue Animal Management System** that showcases my skills in software design, algorithms, and database management developed during my journey at SNHU.*  

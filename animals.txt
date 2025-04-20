@@ -1,8 +1,0 @@
-Dog,Spot,German Shepherd,Male,1,25.6,05-12-2019,United States,intake,true,United States
-Dog,Rex,Great Dane,Male,3,35.2,02-03-2020,United States,Phase I,false,United States
-Dog,Bella,Chihuahua,Female,4,25.6,12-12-2019,Canada,in service,true,Canada
-Dog,sam,husky,male,2,45,09-06-1999,usa,phase I,false,usa
-Monkey,Bob,Capuchin,2,24.2,20.2,Male,4,30,05-05-2021,United States,in service,true,United States
-Monkey,Linda,Macaque,7,25.7,22.2,Female,5,27,09-03-2021,United States,intake,false,United States
-Monkey,Louise,Tamarin,4,20.3,19.1,Female,3,10,07-21-2021,United States,in service,true,United States
-Monkey,kay,Capuchin,3,4,3,male,11,43,09-03-1999,usa,Phase I,false,usa
